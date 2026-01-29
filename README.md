@@ -33,17 +33,17 @@ The project demonstrates basic Python concepts such as input handling, loops, er
 
 ## Example Output
 ```
-  Welcome to weather generator!
-  Enter the number of days you want us to generate weather for.
->> 3
-  Enter the lowest you want the temprature to go to.
->> 40
-  Enter the highest you want the temprature to go to.
->> 75
-  Day 1 : 62 ° F
-  Day 2 : 44 ° F
-  Day 3 : 71 ° F
-  Thank you for using weather generator! Restart the program to go again.
+    Welcome to weather generator!
+    Enter the number of days you want us to generate weather for.
+>>> 3
+    Enter the lowest you want the temprature to go to.
+>>> 40
+    Enter the highest you want the temprature to go to.
+>>> 75
+    Day 1 : 62 ° F
+    Day 2 : 44 ° F
+    Day 3 : 71 ° F
+    Thank you for using weather generator! Restart the program to go again.
 ```
 
 ## How to Set Up and Run
